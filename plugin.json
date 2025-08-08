@@ -1,0 +1,11 @@
+{
+    "name"              :   "ScpEasyvisionPlentymarkets7",
+    "namespace"         :   "ScpEasyvisionPlentymarkets7",
+    "type"              :   "template",
+    "version"           :   "1.0.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "tbd",
+    "author"            :   "Site Cockpit GmbH",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "ScpEasyvisionPlentymarkets7\\Providers\\ScpEasyvisionPlentymarkets7ServiceProvider"
+}
