@@ -1,11 +1,21 @@
 {
-    "name"              :   "ScpEasyvisionPlentymarkets7",
-    "namespace"         :   "ScpEasyvisionPlentymarkets7",
-    "type"              :   "template",
-    "version"           :   "1.0.0",
-    "pluginIcon"        :   "icon_plugin_xs.png",
-    "description"       :   "tbd",
-    "author"            :   "Site Cockpit GmbH",
-    "authorIcon"        :   "icon_author_xs.png",
-    "serviceProvider"   :   "ScpEasyvisionPlentymarkets7\\Providers\\ScpEasyvisionPlentymarkets7ServiceProvider"
+    "name": "ScpEasyvisionPlentymarkets7",
+    "namespace": "ScpEasyvisionPlentymarkets7",
+    "marketplaceName": {
+        "de": "easyVision by SiteCockpit",
+        "en": "easyVision by SiteCockpit"
+    },
+    "description": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!",
+    "shortDescription": {
+        "de": "Integrieren Sie SiteCockpit in PlentyOne: automatisiertes Accessibility‑Monitoring, Frontend‑Widget & gesetzeskonforme Barrierefreiheitserklärung. Integration erfolgt in wenigen Minuten!",
+        "en": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!"
+    },
+    "type": "template",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "pluginIcon": "icon_plugin_xs.png",
+    "author": "Site Cockpit GmbH",
+    "authorIcon": "icon_author_xs.png",
+    "email": "marketing@sitecockpit.com",
+    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\ScpEasyvisionPlentymarkets7ServiceProvider"
 }
