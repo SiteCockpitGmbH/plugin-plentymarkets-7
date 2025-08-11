@@ -23,7 +23,7 @@
             "key"           : "ScpEasyvisionPlentymarkets7\\Providers\\CodeProvider",
             "name"          : "easyVision script",
             "description"   : "Include easyVision script",
-            "defaultLayoutContainer": "Ceres::Script.Loader"
+            "defaultLayoutContainer": "Ceres::Script.AfterScriptsLoaded"
         }
     ]
 }
