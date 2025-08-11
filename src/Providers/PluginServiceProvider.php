@@ -8,11 +8,7 @@ use Plenty\Plugin\Events\Dispatcher;
 use Plenty\Plugin\ServiceProvider;
 use Plenty\Plugin\Templates\Twig;
 
-/**
- * Class ScpEasyvisionPlentymarkets7ServiceProvider
- * @package ScpEasyvisionPlentymarkets7\Providers
- */
-class ScpEasyvisionPlentymarkets7ServiceProvider extends ServiceProvider
+class PluginServiceProvider extends ServiceProvider
 {
     /**
     * Register the route service provider
@@ -30,7 +26,7 @@ class ScpEasyvisionPlentymarkets7ServiceProvider extends ServiceProvider
         $eventDispatcher->listen('IO.Resources.Import', function (ResourceContainer $container)
         {
             // The script is imported in the Footer.twig of plentyShop LTS
-            $container->addScriptTemplate('ScpEasyvisionPlentymarkets7::ScpEasyvisionPlentymarkets7');
+            $container->addScriptTemplate('ScpEasyvisionPlentymarkets7::Script');
         }, self::PRIORITY);
     }
 }
