@@ -17,12 +17,5 @@
     "author": "Site Cockpit GmbH",
     "authorIcon": "icon_author_xs.png",
     "email": "marketing@sitecockpit.com",
-    "dataProviders": [
-        {
-        "key": "ScpEasyvisionPlentymarkets7\\Providers\\ScpEasyvisionPlentymarkets7ServiceProvider",
-        "name": "easyVision by SiteCockpit",
-        "description": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!",
-        "defaultLayoutContainer": "Ceres::Script.AfterScriptsLoaded"
-        }
-    ]
+    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\ScpEasyvisionPlentymarkets7ServiceProvider"
 }
