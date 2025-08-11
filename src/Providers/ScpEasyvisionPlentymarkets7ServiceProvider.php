@@ -2,11 +2,11 @@
 
 namespace ScpEasyvisionPlentymarkets7\Providers;
 
-use Plenty\Plugin\ServiceProvider;
+use IO\Helper\TemplateContainer;
 use IO\Helper\ResourceContainer;
 use Plenty\Plugin\Events\Dispatcher;
+use Plenty\Plugin\ServiceProvider;
 use Plenty\Plugin\Templates\Twig;
-use IO\Extensions\Functions\Partial;
 
 /**
  * Class ScpEasyvisionPlentymarkets7ServiceProvider
@@ -22,15 +22,15 @@ class ScpEasyvisionPlentymarkets7ServiceProvider extends ServiceProvider
         $this->getApplication()->register(ScpEasyvisionPlentymarkets7RouteServiceProvider::class);
     }
 
+    /**
+     * Boot a template for the basket that will be displayed in the template plugin instead of the original basket.
+     */
     public function boot(Twig $twig, Dispatcher $eventDispatcher)
     {
-        $eventDispatcher->listen('IO.Resources.Import', function (ResourceContainer $container) {
-            // The style is imported in the <head> on the PageDesign.twig of plentyShop LTS
-            $container->addStyleTemplate('ScpEasyvisionPlentymarkets7::ScpEasyvisionPlentymarkets7');
-        }, self::PRIORITY);
-
-        $eventDispatcher->listen('IO.init.templates', function (Partial $partial) {
-            $partial->set('header', 'ScpEasyvisionPlentymarkets7::ScpEasyvisionPlentymarkets7');
+        $eventDispatcher->listen('IO.Resources.Import', function (ResourceContainer $container)
+        {
+            // The script is imported in the Footer.twig of plentyShop LTS
+            $container->addScriptTemplate('ScpEasyvisionPlentymarkets7::ScpEasyvisionPlentymarkets7');
         }, self::PRIORITY);
     }
 }
