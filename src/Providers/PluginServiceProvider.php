@@ -27,6 +27,6 @@ class PluginServiceProvider extends ServiceProvider
         {
             // The script is imported in the Footer.twig of plentyShop LTS
             $container->addScriptTemplate('ScpEasyvisionPlentymarkets7::Script');
-        }, self::PRIORITY);
+        });
     }
 }
