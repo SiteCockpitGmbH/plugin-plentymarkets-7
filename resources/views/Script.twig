@@ -1,1 +1,3 @@
-<script type="module" src="https://cdn.sitecockpit.com/cdn/app.js" data-easy-vision-key="{{ config("ScpEasyvisionPlentymarkets7.integrationKey")|trim }}"></script>
+{% if config("ScpEasyvisionPlentymarkets7.integrationKey") %}
+<script type="module" src="https://cdn.sitecockpit.com/cdn/app.js" data-easy-vision-key="{{ config("ScpEasyvisionPlentymarkets7.integrationKey") }}"></script>
+{% {% endif %} %}
