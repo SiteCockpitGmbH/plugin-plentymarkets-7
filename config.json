@@ -1,1 +1,18 @@
-[]
+{
+  "formatVersion": 1,
+  "menu": {
+    "Config.SettingsTab": {
+      "label": "Config.SettingsTab",
+      "formFields": {
+        "integrationKey": {
+          "type": "inputText",
+          "required": true,
+          "label": "Config.IntegrationKey",
+          "options": {
+            "defaultValue": ""
+          }
+        }
+      }
+    }
+  }
+}

@@ -17,13 +17,5 @@
     "author": "Site Cockpit GmbH",
     "authorIcon": "icon_author_xs.png",
     "email": "marketing@sitecockpit.com",
-    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\PluginServiceProvider",
-    "dataProviders": [
-        {
-            "key"           : "ScpEasyvisionPlentymarkets7\\Providers\\CodeProvider",
-            "name"          : "easyVision script",
-            "description"   : "Include easyVision script",
-            "defaultLayoutContainer": "Ceres::Script.AfterScriptsLoaded"
-        }
-    ]
+    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\PluginServiceProvider"
 }
