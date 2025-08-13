@@ -17,5 +17,11 @@
     "author": "Site Cockpit GmbH",
     "authorIcon": "icon_author_xs.png",
     "email": "marketing@sitecockpit.com",
-    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\PluginServiceProvider"
+    "serviceProvider": "ScpEasyvisionPlentymarkets7\\Providers\\PluginServiceProvider",
+    "require": {
+        "IO": ">=5.0.0"
+    },
+    "platform": {
+        "php": ">=8.0"
+    }
 }

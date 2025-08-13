@@ -15,7 +15,7 @@ class PluginServiceProvider extends ServiceProvider
     */
     public function register()
     {
-        $this->getApplication()->register(ScpEasyvisionPlentymarkets7RouteServiceProvider::class);
+
     }
 
     /**
