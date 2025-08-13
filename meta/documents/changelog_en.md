@@ -1,6 +1,4 @@
 # Release Notes for ScpEasyvisionPlentymarkets7
 
-## v1.0.0
-
-### Added
-[Further information](https://developers.plentymarkets.com/marketplace/plugin-requirements#marketplace-changelog)
+## 1.0.0
+- First release of the plugin.

@@ -1,1 +1,2 @@
-[Weitere Informationen](https://developers.plentymarkets.com/marketplace/plugin-requirements#marketplace-support-contact)
+## Hilfe & Support
+https://www.sitecockpit.com/redirect/support-de
