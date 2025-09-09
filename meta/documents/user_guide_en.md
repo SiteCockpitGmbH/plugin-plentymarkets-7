@@ -1,39 +1,53 @@
-# SiteCockpit easyVision
+**SiteCockpit** is a platform for digital accessibility developed in Germany that helps companies, public authorities, and organizations make their websites legally compliant, user-friendly, and inclusive. SiteCockpit offers practical and immediately applicable solutions for implementing the legal requirements.
 
-SiteCockpit is a digital accessibility platform developed in Germany that supports companies, authorities, and organizations in making their websites legally compliant, user-friendly and inclusive. Against the backdrop of the Barrierefreiheitsstärkungsgesetz (BFSG), which will impose obligations on numerous operators of digital offerings from June 28, 2025, SiteCockpit offers practical and immediately applicable solutions for implementing the legal requirements.
+With our free plugin, you can quickly and easily integrate the **easyVision widget by SiteCockpit** into your PlentyONE shop. This is your first step toward digital accessibility—without any technical hurdles.
 
-With the **easyVision widget**, visitors can customize your website to suit their own needs—thanks to preconfigured profiles such as ADHD, dyslexia, or visual impairment.
+## Getting started with SiteCockpit:
+1. Select the SiteCockpit plugin from the list of plugin sets.
+2. Install and activate the plugin.
+3. Register for free at the  SiteCockpit Website and select a package.
+4. Enter the integration key from the SiteCockpit dashboard into the plugin backend of your shop.
+5. Save!
 
-**Improved usability with the easyVision widget through:**
+[Register now for free, select a package, and get started!](https://www.sitecockpit.com/en/prices)
+
+## What does the easyVision Widget by SiteCockpit do for you:
+
+- Automatically inserts the required embed code in the correct place in the shop
+- Immediately activates the frontend control plugin(easyVision)
+- Connects your website to your SiteCockpit account
+- Enables the use of easyMonitoring and easyStatement
+
+## Three powerful features:
+
+- **easyVision** - customizable front-end widget with contrast modes, reading modes, focus control & user profiles for ADHD, dyslexia, visual impairment
+- **easyMonitoring** - Automated WCAG 2.2 audits incl. scoring, error reports, progress display & export options
+- **easyStatement** - a generator for legally compliant accessibility declarations in accordance with BFSG/EAA
+
+## Improve usability with the easyVision widget by:
 
 - Disabling animations
-
 - Changing the mouse pointer
-
-- Text spacing
-
+- Adjusting text spacing
 - Adjusting line spacing
-
 - Contrast
-
 - Dyslexia-friendly
-
 - Showing/hiding images
+- And much more
 
-- and much more
+## Your advantages
 
-SiteCockpit is aimed at small and medium-sized companies as well as corporations, public institutions and non-profit organizations. All products are GDPR-compliant and meet European accessibility standards. The aim is to enable digital participation for everyone: efficiently, scalably and with real added value for operators and visitors alike.
+- Integration in just a few minutes.
+- Strong usability for all user groups, better SEO and conversion rate.
+- Use monitoring and audits to ensure long-term accessibility.
+- Manage multiple domains conveniently and centrally via the SiteCockpit dashboard.
+- Enhance your brand reputation as a responsible, inclusive company.
+- Get support for your legally compliant accessibility statements with easyStatement.
+- Save costs thanks to a fair pricing structure without billing based on page views.
+- German data protection standard & support.
 
-Further information can be found at: http://www.sitecockpit.com 
+## Important to know:
 
-**Why SiteCockpit?**
+The plugin itself does not provide complete accessibility, but activates the easyVision module, which provides central assistance functions for users in the shop. The analysis and implementation of further measures takes place on [sitecockpit.com](https://www.sitecockpit.com/en) in your account.
 
-- Direct integration into your TYPO3, no system change necessary
-
-- Fast integration: installation and configuration in just a few m inutes
-
-- Holistic approach: audit, assistance function & legally compliant declaration in one software package
-
-- German data protection standard & support
-
-- Improved user experience, reach & brand image, better SEO & conversion
+Further information is available at: [www.sitecockpit.com](https://www.sitecockpit.com/en)
