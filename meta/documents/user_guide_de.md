@@ -24,7 +24,7 @@ Mit unserem kostenlosen Plugin bindest du das **easyVision-Widget von SiteCockpi
 - **easyMonitoring:** Automatische Barriereanalyse mit Optimierungsvorschlägen
 - **easyStatement:** Dynamische, gesetzeskonforme Barrierefreiheitserklärung
 
-## Mehr Usability mit dem easyVision Widget durch:**
+## Mehr Usability mit dem easyVision Widget durch:
 - Animationen deaktivieren
 - Mausanzeige ändern
 - Textabstände
