@@ -1,3 +1,5 @@
+# SiteCockpit - the tool for digital accessibility
+
 **SiteCockpit** is a platform for digital accessibility developed in Germany that helps companies, public authorities, and organizations make their websites legally compliant, user-friendly, and inclusive. SiteCockpit offers practical and immediately applicable solutions for implementing the legal requirements.
 
 With our free plugin, you can quickly and easily integrate the **easyVision widget by SiteCockpit** into your PlentyONE shop. This is your first step toward digital accessibility—without any technical hurdles.
@@ -46,8 +48,10 @@ With our free plugin, you can quickly and easily integrate the **easyVision widg
 - Save costs thanks to a fair pricing structure without billing based on page views.
 - German data protection standard & support.
 
-## Important to know:
+### Important to know:
 
+<div class="alert alert-warning" role="alert">
 The plugin itself does not provide complete accessibility, but activates the easyVision module, which provides central assistance functions for users in the shop. The analysis and implementation of further measures takes place on [sitecockpit.com](https://www.sitecockpit.com/en) in your account.
+</div>
 
 Further information is available at: [www.sitecockpit.com](https://www.sitecockpit.com/en)

@@ -1,0 +1,17 @@
+{
+    "marketplaceName": {
+        "de": "easyVision by SiteCockpit",
+        "en": "easyVision by SiteCockpit"
+    },
+    "license": "proprietary",
+    "price": 0.0,
+    "shortDescription": {
+        "de": "Integrieren Sie SiteCockpit in PlentyOne: automatisiertes Accessibility‑Monitoring, Frontend‑Widget & gesetzeskonforme Barrierefreiheitserklärung. Integration erfolgt in wenigen Minuten!",
+        "en": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!"
+    },
+    "categories": ["3527"],
+    "keywords": [
+        "accessibility",
+        "SiteCockpit"
+    ]
+}

@@ -45,9 +45,11 @@ Mit unserem kostenlosen Plugin bindest du das **easyVision-Widget von SiteCockpi
 - Deutscher Datenschutzstandard & Support
 
 
-## Wichtig zu wissen:
+### Wichtig zu wissen:
 
+<div class="alert alert-warning" role="alert">
 Das Plugin selbst stellt keine vollständige Barrierefreiheit her, aktiviert aber das **easyVision-Modul**, das zentrale Hilfsfunktionen für Nutzer im Shop bereitstellt. Die Analyse und Umsetzung weiterer Maßnahmen erfolgt auf [sitecockpit.com](https://www.sitecockpit.com/en) in deinem Account.
+</div>
 
 
 Weitere Informationen unter: [www.sitecockpit.com](https://www.sitecockpit.com/en)
