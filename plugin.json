@@ -10,6 +10,8 @@
         "de": "Integrieren Sie SiteCockpit in PlentyOne: automatisiertes Accessibility‑Monitoring, Frontend‑Widget & gesetzeskonforme Barrierefreiheitserklärung. Integration erfolgt in wenigen Minuten!",
         "en": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!"
     },
+    "price": 0.0,
+    "categories": ["3527"],
     "type": "template",
     "version": "1.0.0",
     "license": "proprietary",
