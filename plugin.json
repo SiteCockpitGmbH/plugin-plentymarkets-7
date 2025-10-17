@@ -2,8 +2,8 @@
     "name": "ScpEasyvisionPlentymarkets7",
     "namespace": "ScpEasyvisionPlentymarkets7",
     "marketplaceName": {
-        "de": "easyVision by SiteCockpit",
-        "en": "easyVision by SiteCockpit"
+        "de": "SiteCockpit - easyVision Widget",
+        "en": "SiteCockpit - easyVision Widget"
     },
     "description": "Integrate SiteCockpit into PlentyOne: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!",
     "shortDescription": {
