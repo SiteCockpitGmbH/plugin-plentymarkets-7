@@ -11,7 +11,7 @@ With our free plugin, you can quickly and easily integrate the **easyVision widg
 4. Enter the integration key from the SiteCockpit dashboard into the plugin backend of your shop.
 5. Save!
 
-[Register now for free, select a package, and get started!](https://www.sitecockpit.com/en/prices)
+[Register now for free, select a package, and get started!](https://www.sitecockpit.com/en/prices?code=yZbHBoe1H4jA6uNH)
 
 ## What does the easyVision Widget by SiteCockpit do for you:
 

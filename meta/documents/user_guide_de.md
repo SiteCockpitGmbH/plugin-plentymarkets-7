@@ -11,7 +11,7 @@ Mit unserem kostenlosen Plugin bindest du das **easyVision-Widget von SiteCockpi
 4. Integration Key aus dem SiteCockpit Dashboard im Plugin-Backend des Shops einfügen. 
 5. Speichern!
 
-[Jetzt kostenlos anmelden, Paket auswählen und durchstarten!](https://www.sitecockpit.com/de/preise)
+[Jetzt kostenlos anmelden, Paket auswählen und durchstarten!](https://www.sitecockpit.com/de/preise?code=yZbHBoe1H4jA6uNH)
 
 ## Was das easyVision Widget Plugin für dich macht:
 - Fügt den benötigten Embed-Code automatisch an die richtige Stelle im Shop ein

@@ -1,5 +1,8 @@
 # Release Notes für ScpEasyvisionPlentymarkets7
 
+## 1.0.2
+- Link zu den Preisdetails aktualisiert
+
 ## 1.0.1
 - Änderungen für Plugin Review
 
